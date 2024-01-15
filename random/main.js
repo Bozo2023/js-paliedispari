@@ -7,4 +7,9 @@ function RandomNumer(a,b){
     } else{
         document.write("il numero è disparipari ed è:" + NumerRand)
     }
+}function summ(a,b){
+    return(a+b);
+
 }
+let Result=summ (Numero,NumerRand)
+document.writeln("il risultato è:" + Result);
