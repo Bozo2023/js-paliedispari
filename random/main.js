@@ -13,3 +13,4 @@ function RandomNumer(a,b){
 }
 let Result=summ (Numero,NumerRand)
 document.writeln("il risultato è:" + Result);
+
